@@ -1,0 +1,10 @@
+C:/Modeltech_pe_edu_10.4a/examples/encryption/mix_columns.v {2 {vlog -work work -stats=none {C:\Modeltech_pe_edu_10.4a\examples\encryption\mix_columns.v}
+** Warning: (vlog-14) Failed to open "C:/Modeltech_pe_edu_10.4a/examples/encryption/encryption.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mix_columns
+
+Top level modules:
+	mix_columns
+
+} {} {}}
